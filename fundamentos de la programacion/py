@@ -1,0 +1,7 @@
+def main():
+    valor = 1
+    valor2 = 2
+    while valor <= valor2:
+        print(valor)
+        valor += 1              
+        
