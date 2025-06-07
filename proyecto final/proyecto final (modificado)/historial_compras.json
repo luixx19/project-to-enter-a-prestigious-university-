@@ -1,0 +1,261 @@
+[
+    {
+        "cliente": "Luis",
+        "fecha": "2025-05-29 23:00:34",
+        "productos": [
+            {
+                "nombre": "Jabon",
+                "categoria": "Limpieza",
+                "precio_unitario": 20.0,
+                "cantidad": 2,
+                "subtotal": 40.0
+            },
+            {
+                "nombre": "Shampoo",
+                "categoria": "Limpieza",
+                "precio_unitario": 50.0,
+                "cantidad": 7,
+                "subtotal": 350.0
+            },
+            {
+                "nombre": "Mazapan",
+                "categoria": "Comida",
+                "precio_unitario": 10.0,
+                "cantidad": 6,
+                "subtotal": 60.0
+            }
+        ],
+        "metodo_pago": "Tarjeta",
+        "total": 450.0
+    },
+    {
+        "cliente": "Manuel",
+        "fecha": "2025-05-29 23:05:17",
+        "productos": [
+            {
+                "nombre": "Sandia",
+                "categoria": "Fruta",
+                "precio_unitario": 50.0,
+                "cantidad": 2,
+                "subtotal": 100.0
+            },
+            {
+                "nombre": "Sal",
+                "categoria": "Comida",
+                "precio_unitario": 15.5,
+                "cantidad": 2,
+                "subtotal": 31.0
+            },
+            {
+                "nombre": "Uvas ",
+                "categoria": "Fruta",
+                "precio_unitario": 35.9,
+                "cantidad": 2,
+                "subtotal": 71.8
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 202.8
+    },
+    {
+        "cliente": "luixx",
+        "fecha": "2025-05-30 10:57:38",
+        "productos": [
+            {
+                "nombre": "Uvas ",
+                "categoria": "Fruta",
+                "precio_unitario": 35.9,
+                "cantidad": 2,
+                "subtotal": 71.8
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 71.8
+    },
+    {
+        "cliente": "sandra",
+        "fecha": "2025-05-30 11:18:24",
+        "productos": [
+            {
+                "nombre": "Sandia",
+                "categoria": "Fruta",
+                "precio_unitario": 50.0,
+                "cantidad": 2,
+                "subtotal": 100.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 100.0
+    },
+    {
+        "cliente": "luixx",
+        "fecha": "2025-05-30 11:49:00",
+        "productos": [
+            {
+                "nombre": "Jabon",
+                "categoria": "Limpieza",
+                "precio_unitario": 20.0,
+                "cantidad": 13,
+                "subtotal": 260.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 260.0
+    },
+    {
+        "cliente": "l",
+        "fecha": "2025-05-30 12:51:27",
+        "productos": [
+            {
+                "nombre": "Uvas ",
+                "categoria": "Fruta",
+                "precio_unitario": 35.9,
+                "cantidad": 11,
+                "subtotal": 394.9
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 394.9
+    },
+    {
+        "cliente": "l",
+        "fecha": "2025-05-30 12:55:44",
+        "productos": [
+            {
+                "nombre": "Sal",
+                "categoria": "Comida",
+                "precio_unitario": 15.5,
+                "cantidad": 18,
+                "subtotal": 279.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 279.0
+    },
+    {
+        "cliente": "l",
+        "fecha": "2025-05-30 12:57:44",
+        "productos": [
+            {
+                "nombre": "Shampoo",
+                "categoria": "Limpieza",
+                "precio_unitario": 50.0,
+                "cantidad": 10,
+                "subtotal": 500.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 500.0
+    },
+    {
+        "cliente": "Manuel",
+        "fecha": "2025-05-30 14:52:58",
+        "productos": [
+            {
+                "nombre": "Sandia",
+                "categoria": "Fruta",
+                "precio_unitario": 50.0,
+                "cantidad": 2,
+                "subtotal": 100.0
+            },
+            {
+                "nombre": "Aguacate",
+                "categoria": "Fruta",
+                "precio_unitario": 40.0,
+                "cantidad": 2,
+                "subtotal": 80.0
+            },
+            {
+                "nombre": "Mazapan",
+                "categoria": "Comida",
+                "precio_unitario": 10.0,
+                "cantidad": 10,
+                "subtotal": 100.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 280.0
+    },
+    {
+        "cliente": "Manuel",
+        "fecha": "2025-05-30 15:13:57",
+        "productos": [
+            {
+                "nombre": "Sandia",
+                "categoria": "Fruta",
+                "precio_unitario": 50.0,
+                "cantidad": 1,
+                "subtotal": 50.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 50.0
+    },
+    {
+        "cliente": "Manuel",
+        "fecha": "2025-05-30 15:43:29",
+        "productos": [
+            {
+                "nombre": "Aguacate",
+                "categoria": "Fruta",
+                "precio_unitario": 40.0,
+                "cantidad": 8,
+                "subtotal": 320.0
+            }
+        ],
+        "metodo_pago": "Tarjeta",
+        "total": 320.0
+    },
+    {
+        "cliente": "sandra",
+        "fecha": "2025-05-30 16:06:05",
+        "productos": [
+            {
+                "nombre": "Sandia",
+                "categoria": "Fruta",
+                "precio_unitario": 50.0,
+                "cantidad": 1,
+                "subtotal": 50.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 50.0
+    },
+    {
+        "cliente": "sandra",
+        "fecha": "2025-05-30 16:07:17",
+        "productos": [
+            {
+                "nombre": "Mango",
+                "categoria": "Fruta",
+                "precio_unitario": 55.0,
+                "cantidad": 14,
+                "subtotal": 770.0
+            },
+            {
+                "nombre": "Mango",
+                "categoria": "Fruta",
+                "precio_unitario": 55.0,
+                "cantidad": 14,
+                "subtotal": 770.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 1540.0
+    },
+    {
+        "cliente": "luis ",
+        "fecha": "2025-05-30 16:17:53",
+        "productos": [
+            {
+                "nombre": "Jabon",
+                "categoria": "Limpieza",
+                "precio_unitario": 20.0,
+                "cantidad": 10,
+                "subtotal": 200.0
+            }
+        ],
+        "metodo_pago": "Efectivo",
+        "total": 200.0
+    }
+]

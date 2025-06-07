@@ -1,0 +1,1 @@
+[{"id_producto": 1, "nombre": "Jabon", "categoria": "limpieza", "precio": 20.0, "stock": 30}, {"id_producto": 2, "nombre": "Azucar", "categoria": "Comida", "precio": 19.0, "stock": 20}]

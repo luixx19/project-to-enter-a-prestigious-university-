@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Jabon",
+        "categoria": "Limpieza",
+        "precio": 20.0,
+        "stock": 0
+    },
+    {
+        "nombre": "Jamon",
+        "categoria": "Comida",
+        "precio": 33.0,
+        "stock": 13
+    },
+    {
+        "nombre": "Shampoo",
+        "categoria": "Limpieza",
+        "precio": 50.0,
+        "stock": 0
+    },
+    {
+        "nombre": "Sandia",
+        "categoria": "Fruta",
+        "precio": 50.0,
+        "stock": 4
+    },
+    {
+        "nombre": "Mazapan",
+        "categoria": "dulce",
+        "precio": 10.0,
+        "stock": 0
+    },
+    {
+        "nombre": "Sal",
+        "categoria": "Comida",
+        "precio": 15.5,
+        "stock": 0
+    },
+    {
+        "nombre": "Arroz",
+        "categoria": "Comida",
+        "precio": 32.0,
+        "stock": 20
+    },
+    {
+        "nombre": "Aguacate",
+        "categoria": "Fruta",
+        "precio": 40.0,
+        "stock": 20
+    },
+    {
+        "nombre": "Uvas ",
+        "categoria": "Fruta",
+        "precio": 35.9,
+        "stock": 0
+    },
+    {
+        "nombre": "Aceite",
+        "categoria": "Comida",
+        "precio": 36.0,
+        "stock": 20
+    },
+    {
+        "nombre": "Mango",
+        "categoria": "Fruta",
+        "precio": 55.0,
+        "stock": -8
+    },
+    {
+        "nombre": "sandia",
+        "categoria": "fruta",
+        "precio": 20.0,
+        "stock": 6
+    }
+]

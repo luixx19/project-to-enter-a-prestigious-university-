@@ -1,0 +1,82 @@
+[
+    {
+        "cliente": "Cliente",
+        "fecha": "2025-05-29 22:23:13",
+        "productos": [
+            {
+                "nombre": "Mazapan",
+                "categoria": "Comida",
+                "precio_unitario": 10.0,
+                "cantidad": 2,
+                "total": 20.0
+            },
+            {
+                "nombre": "Sandia",
+                "categoria": "Fruta",
+                "precio_unitario": 50.0,
+                "cantidad": 1,
+                "total": 50.0
+            },
+            {
+                "nombre": "Jamon",
+                "categoria": "Comida",
+                "precio_unitario": 33.0,
+                "cantidad": 2,
+                "total": 66.0
+            }
+        ]
+    },
+    {
+        "cliente": "Cliente",
+        "fecha": "2025-05-29 22:42:42",
+        "productos": [
+            {
+                "nombre": "Jabon",
+                "categoria": "Limpieza",
+                "precio_unitario": 20.0,
+                "cantidad": 2,
+                "total": 40.0
+            }
+        ]
+    },
+    {
+        "cliente": "Manuel",
+        "fecha": "2025-05-29 22:50:04",
+        "productos": [
+            {
+                "nombre": "Jabon",
+                "categoria": "Limpieza",
+                "precio_unitario": 20.0,
+                "cantidad": 3,
+                "total": 60.0
+            },
+            {
+                "nombre": "Shampoo",
+                "categoria": "Limpieza",
+                "precio_unitario": 50.0,
+                "cantidad": 2,
+                "total": 100.0
+            },
+            {
+                "nombre": "Mazapan",
+                "categoria": "Comida",
+                "precio_unitario": 10.0,
+                "cantidad": 2,
+                "total": 20.0
+            }
+        ]
+    },
+    {
+        "cliente": "Sandra",
+        "fecha": "2025-05-29 22:53:31",
+        "productos": [
+            {
+                "nombre": "Sandia",
+                "categoria": "Fruta",
+                "precio_unitario": 50.0,
+                "cantidad": 2,
+                "total": 100.0
+            }
+        ]
+    }
+]

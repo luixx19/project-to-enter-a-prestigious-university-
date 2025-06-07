@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Jabon",
+        "categoria": "Limpieza",
+        "precio": 20.0,
+        "stock": 9
+    },
+    {
+        "nombre": "Jamon",
+        "categoria": "Comida",
+        "precio": 33.0,
+        "stock": 15
+    },
+    {
+        "nombre": "Shampoo",
+        "categoria": "Limpieza",
+        "precio": 50.0,
+        "stock": 29
+    },
+    {
+        "nombre": "Sandia",
+        "categoria": "Fruta",
+        "precio": 50.0,
+        "stock": 0
+    },
+    {
+        "nombre": "Jabon zote",
+        "categoria": "limpieza",
+        "precio": 25.0,
+        "stock": 3
+    },
+    {
+        "nombre": "jabon foca",
+        "categoria": "limpieza",
+        "precio": 25.0,
+        "stock": 10
+    },
+    {
+        "nombre": "mazapan",
+        "categoria": "comida",
+        "precio": 10.0,
+        "stock": 2
+    }
+]
